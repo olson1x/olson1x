@@ -1,16 +1,23 @@
-## Hi there 👋
+# Aleksander Michałowski
 
-<!--
-**olson1x/olson1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer in the making**
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python (ETL, Data Processing), SQL (PostgreSQL, Analytical Modeling)
+- **Data Engineering:** Medallion Architecture (Bronze/Silver/Gold), Star Schema, Data Normalization
+- **Tools:** Git, Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗 Featured Project: Pokemon TCG Data Pipeline
+An end-to-end data pipeline implementing a professional Medallion architecture.
+- **Bronze:** Automated ingestion of JSON data from external API.
+- **Silver:** Relational PostgreSQL modeling with 3rd Normal Form.
+- **Gold:** Analytical Star Schema for high-performance reporting.
+- **Tech:** Python, PostgreSQL, psycopg2, Git.
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=olson1x&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olson1x&layout=compact&theme=transparent)
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/aleksandermichalowski/)
+- [Email](alexmbiznes@gmail.com)
