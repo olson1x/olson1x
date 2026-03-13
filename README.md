@@ -15,10 +15,7 @@ An end-to-end data pipeline implementing a professional Medallion architecture.
 - **Tech:** Python, PostgreSQL, psycopg2, Git.
 
 ### 📊 Activity Stats
-![GitHub Streak](https://github-readme-stats.vercel.app/api/streak?username=olson1x&theme=transparent&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olson1x&show_icons=true&theme=transparent&hide_border=true&hide=stars,issues,contribs,rank)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olson1x&theme=transparent&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olson1x&layout=compact&theme=transparent&hide_border=true)
 
 ### 📫 How to reach me
