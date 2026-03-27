@@ -16,7 +16,6 @@ An end-to-end data pipeline implementing a professional Medallion architecture.
 
 ### 📊 Activity Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olson1x&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olson1x&layout=compact&theme=transparent&hide_border=true)
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/aleksandermichalowski/)
