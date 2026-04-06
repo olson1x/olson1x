@@ -14,9 +14,6 @@ An end-to-end data pipeline implementing a professional Medallion architecture.
 - **Gold:** Analytical Star Schema for high-performance reporting.
 - **Tech:** Python, PostgreSQL, psycopg2, Git.
 
-### 📊 Activity Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olson1x&theme=transparent&hide_border=true)
-
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/aleksandermichalowski/)
 - [Email](alexmbiznes@gmail.com)
