@@ -1,19 +1,20 @@
 # Aleksander Michałowski
 
-**Data Engineer in the making**
+**Data Engineer | Data Analyst | Machine Learning Enthusiast**
 
-### 🛠 Tech Stack
-- **Languages:** Python (ETL, Data Processing), SQL (PostgreSQL, Analytical Modeling)
-- **Data Engineering:** Medallion Architecture (Bronze/Silver/Gold), Star Schema, Data Normalization
-- **Tools:** Git, Linux, VS Code
+### Tech Stack
+* **Languages:**  SQL (PostgreSQL, Analytical Modeling), Python (ETL, Data Processing)
+* **Data Engineering:** Medallion Architecture (Bronze, Silver, Gold), Star Schema, Data Normalization, ETL & ELT Methodologies
+* **Tools & Infrastructure:** Docker, dbt (Data Build Tool), Git, Linux, VS Code
 
-### 🏗 Featured Project: Pokemon TCG Data Pipeline
-An end-to-end data pipeline implementing a professional Medallion architecture.
-- **Bronze:** Automated ingestion of JSON data from external API.
-- **Silver:** Relational PostgreSQL modeling with 3rd Normal Form.
-- **Gold:** Analytical Star Schema for high-performance reporting.
-- **Tech:** Python, PostgreSQL, psycopg2, Git.
+### Featured Project: Pokemon TCG Data Pipeline
+An end-to-end data pipeline comparing ETL and ELT paradigms through a professional Medallion architecture.
+* **Bronze:** Automated ingestion of JSON data (API) and synthetic CSV market data generation.
+* **Silver:** Relational PostgreSQL modeling with 3rd Normal Form and strict data validation.
+* **Gold:** Analytical Star Schema optimized for high-performance BI reporting.
+* **Architecture:** Dual-track processing comparing Python-driven transformations (ETL) with database-native dbt modeling (ELT).
+* **Technologies:** PostgreSQL, Python, dbt, Docker, psycopg2.
 
-### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/aleksandermichalowski/)
-- [Email](alexmbiznes@gmail.com)
+### How to Reach Me
+* [LinkedIn](https://www.linkedin.com/in/aleksandermichalowski/)
+* [Email](mailto:alexmbiznes@gmail.com)
